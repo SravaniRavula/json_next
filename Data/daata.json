@@ -1,0 +1,35 @@
+   
+  
+   [
+    {
+        "text": "Home", "url": "home"
+    },
+    {
+        "text": "Services", "url": "events" 
+    },
+    {
+        "text": "Infrastructure", "url": "infrastructure"
+    },
+    {
+        "text": "Photo Gallery", "url": "photoGallery"
+    },
+    {
+        "text": "News", "url": "news" 
+    },
+    {
+        "text": "Awards", "url": "Awards"
+    },
+    {
+        "text": "Distict Centres", "url": "districtCentres" 
+    },
+    {
+        "text": "Directory", "url": "directory"
+    },
+    {
+        "text": "Helpdesk", "url": "https://servicedesk.nic.in/"
+    }
+
+
+    
+]
+
